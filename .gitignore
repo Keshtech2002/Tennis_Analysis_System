@@ -221,6 +221,9 @@ __marimo__/
 
 training/tennis-ball-detection-6/
 runs/models/best_1280.pt
-models/best_1.pt
+runs/models/best_1.pt
 models/keypoints_model.pth
 yolov8x.pt
+/runs/
+*.pt
+*.pth
